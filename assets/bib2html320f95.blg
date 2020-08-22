@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: bib2html320f95.aux
+The style file: plain.bst
+Database file #1: pub.bib
+Too many commas in name 1 of "Avijit Mandal, Sreeja S Nair, Raoul Jetley, Meenakshi D’Souza" for entry avijit2017static
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Avijit Mandal, Sreeja S Nair, Raoul Jetley, Meenakshi D’Souza" for entry avijit2017static
+while executing---line 1090 of file plain.bst
+You've used 8 entries,
+            2118 wiz_defined-function locations,
+            538 strings with 5443 characters,
+and the built_in function-call counts, 2621 in all, are:
+= -- 238
+> -- 127
+< -- 3
++ -- 53
+- -- 42
+* -- 150
+:= -- 425
+add.period$ -- 24
+call.type$ -- 8
+change.case$ -- 45
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 117
+empty$ -- 231
+format.name$ -- 42
+if$ -- 565
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 7
+newline$ -- 42
+num.names$ -- 16
+pop$ -- 71
+preamble$ -- 1
+purify$ -- 37
+quote$ -- 0
+skip$ -- 81
+stack$ -- 0
+substring$ -- 99
+swap$ -- 31
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 32
+warning$ -- 0
+while$ -- 22
+width$ -- 9
+write$ -- 84
+(There were 2 error messages)

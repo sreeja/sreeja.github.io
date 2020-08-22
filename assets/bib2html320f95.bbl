@@ -1,0 +1,47 @@
+\begin{thebibliography}{1}
+
+\bibitem{avijit2017static}
+Raoul Jetley Meenakshi~D’Souza Avijit~Mandal, Sreeja S~Nair.
+\newblock A static analyzer for industrial robotic applications.
+\newblock In {\em International Symposium on Software Reliability Engineering},
+  2017.
+
+\bibitem{mandal2018generic}
+Avijit Mandal, Devina Mohan, Raoul Jetley, Sreeja Nair, and Meenakshi D'Souza.
+\newblock A generic static analysis framework for domain-specific languages.
+\newblock In {\em 2018 IEEE 23rd International Conference on Emerging
+  Technologies and Factory Automation (ETFA)}, volume~1, pages 27--34. IEEE,
+  2018.
+
+\bibitem{nair2016solving}
+Sreeja Nair and Raoul Jetley.
+\newblock Solving circular dependencies in industrial automation programs.
+\newblock In {\em INDIN}, 2016.
+
+\bibitem{nair2019invariant}
+Sreeja Nair, Gustavo Petri, and Marc Shapiro.
+\newblock Invariant safety for distributed applications.
+\newblock In {\em Workshop on Principles and Practice of Consistency for
+  Distributed Data (PaPoC), Mar 2019, Dresden, Germany.}, 2019.
+
+\bibitem{nair2020proving}
+Sreeja Nair, Gustavo Petri, and Marc Shapiro.
+\newblock Proving the safety of highly-available distributed objects.
+\newblock In {\em 29th European Symposium on Programming}, 2020.
+
+\bibitem{nair2018improving}
+Sreeja Nair and Marc Shapiro.
+\newblock Improving the" correct eventual consistency" tool.
+\newblock {\em arXiv preprint arXiv:1807.06431}, 2018.
+
+\bibitem{nair2017evaluation}
+Sreeja~S Nair.
+\newblock Evaluation of the cec (correct eventual consistency) tool, 2017.
+
+\bibitem{nair2015static}
+Sreeja~S Nair, Raoul Jetley, Anil Nair, and Stefan Hauck-Stattelmann.
+\newblock A static code analysis tool for control system software.
+\newblock In {\em IEEE 22nd International Conference on Software Analysis,
+  Evolution, and Reengineering (SANER)}, pages 459--463, 2015.
+
+\end{thebibliography}
